@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Raymond Yegon] (https://github.com/raymondyegon)
+- [Raymond Yegon](https://github.com/raymondyegon)
 
 ## Project setup instructions
 To start using this project use the following commands:
